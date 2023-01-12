@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="652ce415-9955-4269-aff5-b2ab3e935be3" name="Changes" comment="" />
+    <list default="true" id="652ce415-9955-4269-aff5-b2ab3e935be3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example1/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example1/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example2/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example2/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example3/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example3/SubSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example3/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example4/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example4/SubSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example4/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example5/SubClassOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example5/SubClassTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example5/SuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HWkSW4nfaKUiTp7pUMURK0xjGI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,10 +45,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.lr7.Example5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="UrFU_Study" />
@@ -30,8 +57,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lr7.Example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.Example1.Main" />
+      <module name="UrFU_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr7.Example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lr7.Example3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.Example3.Main" />
+      <module name="UrFU_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr7.Example3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lr7.Example5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.Example5.Main" />
+      <module name="UrFU_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr7.Example5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lr7.Example5.Main" />
+        <item itemvalue="Application.lr7.Example3.Main" />
+        <item itemvalue="Application.lr7.Example1.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -39,6 +108,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="652ce415-9955-4269-aff5-b2ab3e935be3" name="Changes" comment="" />
       <created>1668408228640</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
