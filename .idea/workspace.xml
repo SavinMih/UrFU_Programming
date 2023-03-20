@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="652ce415-9955-4269-aff5-b2ab3e935be3" name="Changes" comment="" />
+    <list default="true" id="652ce415-9955-4269-aff5-b2ab3e935be3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/CreateXmlFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/SearchBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/XmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonDeleter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example3/NewsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example4/ReadExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrFU_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UrFU_Study.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HWkSW4nfaKUiTp7pUMURK0xjGI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,32 +42,120 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/УрФУ/Програмирование/json-simple-1.1.1.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\JavaProjects\UrFU_Study\src\lr10\Example2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CreateExcel">
+    <configuration name="AppendBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.Example1.AppendBook" />
       <module name="UrFU_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr10.Example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.Example4.CreateExcel" />
+      <module name="UrFU_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr10.Example4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.Example3.JsonCreator" />
+      <module name="UrFU_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr10.Example3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.Example1.SearchBook" />
+      <module name="UrFU_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr10.Example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.Example1.XmlParser" />
+      <module name="UrFU_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr10.Example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CreateExcel" />
+        <item itemvalue="Application.SearchBook" />
+        <item itemvalue="Application.AppendBook" />
+        <item itemvalue="Application.JsonCreator" />
+        <item itemvalue="Application.XmlParser" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="652ce415-9955-4269-aff5-b2ab3e935be3" name="Changes" comment="" />
       <created>1668408228640</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668408228640</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
